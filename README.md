@@ -1,5 +1,5 @@
 # Seed - Business Manager
-A mobile application for high school project that allow business owners to manager their service, helping on manage their expenses and profits.
+A React Nactive mobile app for a high school project that allows entrepreneurs to manage their services, helping them manage their expenses and profits.
 
 ## Authored and Developed by: 
 Alexandre de Freitas Pardini: https://github.com/AlexandrePardini <br>
