@@ -3,7 +3,7 @@ A mobile application for high school project that allow business owners to manag
 
 ## Authored and Developed by: 
 Alexandre de Freitas Pardini: https://github.com/AlexandrePardini <br>
-Felipe Coletti Silva: https://github.com/felipe-coletti
+Felipe Coletti Silva: https://github.com/felipe-coletti <br>
 Gabriel Barbosa dos Santos: https://github.com/GotemBarbosa
 
 ## Description:
