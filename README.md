@@ -1,7 +1,7 @@
-# Seed-BusinessManager
+# Seed - Business Manager
 A mobile application for high school project that allow business owners to manager their service, helping on manage their expenses and profits.
 
-## Co-authored and co-developed-by: 
+## Co-authored and co-developed by: 
 Alexandre Pardini: https://github.com/AlexandrePardini <br>
 Gabriel Barbosa: https://github.com/GotemBarbosa
 
