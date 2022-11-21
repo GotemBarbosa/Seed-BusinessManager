@@ -2,14 +2,11 @@
 <p>A mobile app in React Native for a high school project that allows entrepreneurs to organize their services, helping them manage their expenses and profits.</p>
 
 ## Authored and Developed by: 
-<p>Alexandre de Freitas Pardini:</p>
-<p>https://github.com/AlexandrePardini</p>
+<a href="https://github.com/AlexandrePardini">Alexandre de Freitas Pardini</a>
 
-<p>Felipe Coletti Silva:</p>
-<p>https://github.com/felipe-coletti</p>
+<a href="https://github.com/felipe-coletti">Felipe Coletti Silva</a>
 
-<p>Gabriel Barbosa dos Santos:</p>
-<p>https://github.com/GotemBarbosa</p>
+<a href="https://github.com/GotemBarbosa">Gabriel Barbosa dos Santos</a>
 
 ## Description
 <p>The application is a one year project for finalizing the technical course of systems development integrated to the high school at Etec Vila Formosa. The purpose of the application is to help micro and small entrepreneurs to manage their businesses with data such as graphs, costs, profits, revenues, and other relevant data for the management of their businesses.</p> 
