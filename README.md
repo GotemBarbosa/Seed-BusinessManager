@@ -1,5 +1,5 @@
 # Seed - Business Manager
-A mobile app in React Native for a high school project that allows entrepreneurs to manage their services, helping them manage their expenses and profits.
+A mobile app in React Native for a high school project that allows entrepreneurs to organize their services, helping them manage their expenses and profits.
 
 ## Authored and Developed by: 
 Alexandre de Freitas Pardini: https://github.com/AlexandrePardini <br>
